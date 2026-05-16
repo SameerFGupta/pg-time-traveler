@@ -164,7 +164,7 @@ The entire Postgres engine runs in-process. When `db.close()` is called, the ins
 ## Local Development
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mcp-time-traveler
+git clone https://github.com/SameerFGupta/mcp-time-traveler
 cd mcp-time-traveler
 npm install
 npm run build
